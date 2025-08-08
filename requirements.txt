@@ -1,0 +1,11 @@
+# For numerical operations
+numpy==2.2.6
+
+# For image manipulation and blurring
+opencv-python==4.12.0.88
+
+# For opening and handling images
+Pillow==11.3.0
+
+# For OCR (Optical Character Recognition)
+pytesseract==0.3.13
